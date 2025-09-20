@@ -31,12 +31,12 @@ while user_score < 2 and computer_score < 2:
         or (user_choice == "scissor" and computer_choice == "paper")
         or (user_choice == "paper" and computer_choice == "rock")
     ):
-        print("✅ You win this round!")
+        print(" You win this round!")
         user_score += 1  # Increment user's score
 
     # If not a draw or user win, the computer wins
     else:
-        print("💻 Computer wins this round!")
+        print(" Computer wins this round!")
         computer_score += 1  # Increment computer's score
 
     # Print the current score after each round
@@ -44,6 +44,6 @@ while user_score < 2 and computer_score < 2:
 
 # Announce the final winner after the loop ends
 if user_score > computer_score:
-    print("\n🎉 Congratulations! You are the champion!")
+    print("Congratulations! You are the champion!")
 else:
-    print("\n💻 Computer wins the game!")
+    print("Computer wins the game!")

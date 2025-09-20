@@ -56,3 +56,31 @@ By building and using this project, you will learn:
 - Basic **console-based menu design**.
 - Error handling for invalid input.
 - Structuring a small Python project in a readable and maintainable way.
+
+# Simple Calculator
+
+A beginner-friendly Python program that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+## Features
+
+- Add, subtract, multiply, and divide two numbers.
+- Handles division by zero with a clear error message.
+- Simple and easy-to-understand code for beginners.
+
+## How to Use
+
+1. Run the `calculator.py` file in Python.
+2. Enter the first number when prompted.
+3. Enter the second number when prompted.
+4. Choose an operation by typing `+`, `-`, `*`, or `/`.
+5. The result will be displayed.
+
+## What You Will Learn
+
+By building and running this project, you will learn:
+
+- How to take input from users and convert it to numbers.
+- Basic arithmetic operations in Python.
+- Using conditional statements (`if`, `elif`, `else`) to make decisions in your code.
+- Handling simple errors like division by zero.
+- Printing output in a clear and user-friendly way.
