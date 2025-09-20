@@ -84,3 +84,11 @@ By building and running this project, you will learn:
 - Using conditional statements (`if`, `elif`, `else`) to make decisions in your code.
 - Handling simple errors like division by zero.
 - Printing output in a clear and user-friendly way.
+
+# Dice roll
+
+## A simple python script that allows you to roll a dice in console
+
+# Number guessing game
+
+## A simple python script thar allows you to play number guessing game in python
